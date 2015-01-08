@@ -9,6 +9,7 @@
 * Use one space between property and value: `width: 20px` not `width:20px`.
 * Use a blank line above a selector that has styles.
 * Prefer hex color codes `#fff`.
+* Use `background-color` over `background`
 * Use `//` for comment blocks not `/* */`.
 * Use one space between selector and `{`.
 * Use double quotation marks.
